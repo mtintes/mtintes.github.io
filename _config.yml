@@ -10,7 +10,7 @@ title: Gravity
 email: 
 description: The Liberal Jekyll Theme
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mtintes.github.io/mt-thoughts/" # the base hostname & protocol for your site
+url: "https://mtintes.github.io/mt-thoughts" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
 paginate: 5
