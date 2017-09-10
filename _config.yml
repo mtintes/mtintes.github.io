@@ -9,8 +9,8 @@
 title: MT Thoughts
 email:
 description:
-baseurl: "/mtintes/mt-thoughts # the subpath of your site, e.g. /blog
-url: "https://github.com" # the base hostname & protocol for your site
+baseurl: "/mt-thoughts # the subpath of your site, e.g. /blog
+url: "https://mtintes.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username:  mtintes
 paginate: 5
