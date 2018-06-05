@@ -12,7 +12,7 @@ description: Projects and hubot and some other junk
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.anmtblog.com" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  
+github_username:  mtintes
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
