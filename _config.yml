@@ -9,7 +9,7 @@
 title: MT Thoughts
 email: 
 description: Projects and hubot and some other junk 
-baseurl: ""# the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mtintes.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
