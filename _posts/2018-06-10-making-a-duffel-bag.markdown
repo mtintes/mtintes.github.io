@@ -29,7 +29,7 @@ I recomend going to a sewing store to look for this. It comes in a few different
 
 ### Nylon thread
 
-This stuff is strong and will be the guts of the bag. Find it in the main color of your bag. It doesn't have to be spot on. You are making a useful bag not the most beautiful bag.
+This stuff is strong and will be the guts of the bag. Find it in the main color of your bag. It doesn't have to be spot on. You are making a useful bag not the most beautiful bag. We will get the number for how much you need in the maths below.
 
 ### A Needle
 
@@ -41,5 +41,5 @@ I'll be straight with you, between the nylon thread binding up and the webbing b
 
 ## Let's do some maths
 
-
+When you look at a duffle bag you get a cylinder like I mentioned above. The maths here are pretty easy a cylinder unrolled is just a rectangle. But how big is the cylinder? Well it will be big enough to hold your equipment. I found the size by measuring my old hockey bag, but you may not have one. If you do take a cloth measuring tape and measure around the bag and then the length. 
 
