@@ -33,7 +33,7 @@ Bachelor's degree, Computer Science, 2011
 ### Extra Curriculars
 #### Charlie
 
-This started as a side project at work. He is a chatbot that is used by all of IT. He does around 600 tasks a month currently. He does around 35 different tasks that provide value. He does as much work as an average employee on our team. Some of his tasks include GitHub team management and code audits.
+This started as a side project to implement [hubot](https://hubot.github.com/) into my own daily routine. He is a chatbot that is used by all of IT. He does around 600 tasks a month currently. He does around 35 different tasks that provide value. He does as much work as an average employee on our team. Some of his tasks include GitHub team management and code audits.
 
 #### Innersourcing Committee
 
