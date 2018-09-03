@@ -29,3 +29,6 @@ You will need to mix the pretzels up two times a day for two days so depending o
 1. Great job resisting them so far, but it's going to get a whole lot harder.
 1. Pour the last 8 oz of oil over the pretzels. 
 1. Sprinkle on Cayenne, more Chipotle, the ground mustard, brown sugar and the BBQ seasoning. Do each one of these at a time and mix up the pretzels a little as you go. It will help to get everything coated and spread that flavor out. You can also keep tasting these as you go. Each ingredient does something on it's own as labelled in the ingredients section.
+1. Cover and wait another 12 hours.
+1. Mix up one more time and then pop them in a couple 1 gallon bags.
+1. Eat all of them.
