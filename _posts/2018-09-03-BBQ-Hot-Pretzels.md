@@ -12,7 +12,7 @@ I don't have exact measurements for these, so use as much or as little as you wo
 1. Cayenne (initial spiciness)
 1. Ground mustard (levels spice out)
 1. Brown sugar (what gives that sweetness you taste in bbq)
-1. Von Hanson's BBQ seasoning (you can probably use any dry run seasoning, this is what makes it taste like bbq)
+1. Von Hanson's BBQ seasoning (you can probably use any dry rub seasoning, this is what makes it taste like bbq)
 1. Garlic powder (can go with or without. Use a lot if you like to accent saltiness or less if you don't)
 
 ### Directions
