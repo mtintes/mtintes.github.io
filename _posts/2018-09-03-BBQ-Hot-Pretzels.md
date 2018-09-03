@@ -6,7 +6,7 @@ categories: ["recipes"]
 author: "Mike Tintes"
 ---
 
-Let's start this blog of with something simple, tasty seasoned pretzels. I am not a big snack eater. I like to eat a little bit of something really good instead of a lot of mediocre. A friend got some pretzels from [Von Hanson's Meats](https://vonhansons.com/) and they were tasty. Now if you don't want to spend two days making pretzels, then hop in your car and go there instead. It will save you some trouble. I like to tinker and I figured I could probably get pretty close to theirs for flavor. I've brought these pretzels to work, bbqs, family events and I've never got to bring any home. 
+Let's start this blog of with something simple, tasty seasoned pretzels. I am not a big snack eater. I like to eat a little bit of something really good instead of a lot of mediocre. A friend got some pretzels from [Von Hanson's Meats](https://vonhansons.com/) and they were tasty. Now if you don't want to spend two days making pretzels, then hop in your car and go there instead. It will save you some trouble. For me I like to tinker and I figured I could probably get pretty close to that same flavor. I've brought these pretzels to work, BBQs, family events and I've never got to bring any home. 
 
 ### Ingredients
 
