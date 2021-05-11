@@ -7,7 +7,7 @@
 
 ### Optum
 #### Senior Software Engineer - October 2019 - August 2020
- * Worked ono claims processing engine (+3 million a day)
+ * Worked on claims processing engine (+3 million a day)
  * Devops related tasks including the usual players, Jenkins, K8s, artifactory.
 
 ### C.H. Robinson
