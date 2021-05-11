@@ -5,8 +5,13 @@
 
 ## Experiences
 
+### Optum
+#### Senior Software Engineer - October 2019 - August 2020
+ * Worked ono claims processing engine (+3 million a day)
+ * Devops related tasks including the usual players, Jenkins, K8s, artifactory.
+
 ### C.H. Robinson
-#### Senior DevOps Engineer - January 2016 to Present
+#### Senior DevOps Engineer - January 2016 to October 2019
  * Working with team to help practice good architectural and enterprise behaviour. This includes giving presentations to teams and communicating across the organization.
  * Evangelizing automated acceptance testing. I work with teams in difficult testing scenarios and helping them practice good deployment practices. I also work with them during and after high priority incidents to ensure we don't run into similar issues in future releases.
  * Implementing new languages and features into our pipeline. This includes python, WebApi, .net with Service Stack, .netcore, node.js, and packages for all. We have also implemented containers into our pipeline.
