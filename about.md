@@ -11,5 +11,5 @@ permalink: /about/
 <p>This blog is going to be about all of the different project I've worked on or interesting anecdotes, and maybe some stories along the way. I really believe that knowledge should be shared and documented so if you want more detail feel free to ask.</p>
   
 <h2>When?</h2>
-<p>Maybe a new post every couple weeks? I only want to put out stuff that seems interesting so I will write when those stars align.
+<p>I only want to put out stuff that seems interesting so I will write when those stars align.
 </p>
