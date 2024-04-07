@@ -8,7 +8,7 @@
 # Site settings
 title: an MT blog
 email: 
-description: Projects and hubot and some other junk 
+description: Projects and other junk 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.anmtblog.com" # the base hostname & protocol for your site
 twitter_username: 
