@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Phones are a Nightmare"
-date:   2024-04-14
+title:  "Phones are a Nightmare 1" 
+date:   2024-04-23
 categories: ["Shatterstone"]
 author: "Mike Tintes"
 ---
