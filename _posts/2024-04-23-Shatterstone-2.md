@@ -28,7 +28,13 @@ When trying to make a phone work like a phone you have to think of it more like 
 |7|8|9|
 |*|0|#|
 
-This means that there are 4 rows (4 wires) and 3 columns (3 wires) so 7 wire can represent 12 numbers instead of 24 (positive and negative) wires. I wired all the rows and columns to the respective outputs (honestly I can't remember exactly how) and that was working as well. The code is a mess, but if you want it then you can find it [here](https://github.com/mtintes/phone/blob/master/phone_run.py). And after all that, I only had/have one problem left, getting the bloody bells to ring. Well dear reader, I am afraid I still haven't solved that problem. Maybe someday I will. So if I failed horribly, how does this apply to Shatterstone? Well, guess you will have to wair to find out. 
+This means that there are 4 rows (4 wires) and 3 columns (3 wires) so 7 wire can represent 12 numbers instead of 24 (positive and negative) wires. I wired all the rows and columns to the respective outputs (honestly I can't remember exactly how) and that was working as well. The code is a mess, but if you want it then you can find it [here](https://github.com/mtintes/phone/blob/master/phone_run.py). And after all that, I only had/have one problem left, getting the bloody bells to ring. You see, of all the things on a phone that require just the right amount of precision it is the bells. These can vary in their setup, but for my phone there is a small actuator inset into each bell. When you put current through one end it strikes the one side, and vice versa. This is what causes the phone to ring, but since most phones don't really have a brain this has to happen on a circuit that can occilate. You also need a lot of power to do so as far as I am aware. It might be possible to do what I need in the sorftware, but honestly I found a much easier way with dealing with phones overall. 
+
+Now maybe you are wondering why I even touched on theis since it has little to do with Shatterstone. Well, knowledge is a very funny thing. The more I learn, the more I find that knowing anything leads to learning something else. I think that this project was the first inkling I had towards something bigger. It truely took me a ton of time to get anywhere on it, but it also taught me to keep pushing and take little steps towards the bigger goal.
+
+So anyway, that's where we leave it for now. We will come back to phones and a much more robust solution soon.
+
+Take care!
 
 ---
 
