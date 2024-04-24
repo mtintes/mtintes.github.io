@@ -20,7 +20,7 @@ I am a pretty simple mind when it comes to engineering problem solving. I establ
 
 People are funny. We have things that we just know. Like cut a piece of paper in the same shape as a dollar and ask someone to close their eyes and find it in a stack of bills. You could spend months trying differnt kinds of paper and they will always be able to pick it out. We have touched money our whole life so everyone just knows what that feels like. Well, phone noises are the same way. Off by a pitch? People will know. Phone tones are not just a single tone, they are actually a combination of 2 tones together. Their official definition is Dual Tone Multi Frequency (DTMF). If you dial a number 1 for instance that is 697Hz mixed with 1209Hz. Pretty simple! The trick comes down to how you write software to do this. I am not a Python expert. I admit I would do just about anything to avoid that snake. I tried writing this program in JS and Go before I gave in. I was loosing time and interest, so I dived in.
 
-When trying to make a phone work like a phone you have to think of it more like a music track than a bunch of individual noises. A oerson could leave the phone off the hook for any amount of time. The same with dialing numbers at any speed and order. So I found a python library that would allow me to generate a stream and then I could just alter the audio. Beep Bop Boop, a little garbage code later and I had the audio streaming. Then the number pad. That was a little trickier cuz I was unaware at the time that to save some wires they set up a little matrix. A number pad on a phone looks a little like:
+When trying to make a phone work like a phone you have to think of it more like a music track than a bunch of individual noises. A oerson could leave the phone off the hook for any amount of time. The same with dialing numbers at any speed and order. So I found a python library that would allow me to generate a stream and then I could just alter the audio. Beep Bop Boop, a little garbage code later and I had the audio streaming<sup>1</sup>. Then the number pad. That was a little trickier cuz I was unaware at the time that to save some wires they set up a little matrix. A number pad on a phone looks a little like:
 
 |1|2|3|
 |-|-|-|
@@ -29,3 +29,7 @@ When trying to make a phone work like a phone you have to think of it more like 
 |*|0|#|
 
 This means that there are 4 rows (4 wires) and 3 columns (3 wires) so 7 wire can represent 12 numbers instead of 24 (positive and negative) wires. I wired all the rows and columns to the respective outputs (honestly I can't remember exactly how) and that was working as well. The code is a mess, but if you want it then you can find it [here](https://github.com/mtintes/phone/blob/master/phone_run.py). And after all that, I only had/have one problem left, getting the bloody bells to ring. Well dear reader, I am afraid I still haven't solved that problem. Maybe someday I will. So if I failed horribly, how does this apply to Shatterstone? Well, guess you will have to wair to find out. 
+
+---
+
+<sup>1</sup>I say "a little garbage code later", but what I mean is countless weeks of trial and error and giving up and trying again.
