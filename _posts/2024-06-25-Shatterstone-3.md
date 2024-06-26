@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to compel a player" 
+title:  "Do you want to play a game?" 
 date:   2024-06-25
 categories: ["Shatterstone"]
 author: "Mike Tintes"
